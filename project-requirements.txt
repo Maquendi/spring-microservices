@@ -1,0 +1,32 @@
+
+
+features 
+
+
+1: permitir registro de proveedores/usuarios
+
+ a) registrar, actualizar, eliminar sus productos
+ b) ver sus productos todos, por categoria, por unidad etc (su inventario).
+ c) ver el historial de venta de uno de sus productos.
+ d) actualizar su perfil de usuario. 
+ e) ver quienes han comprado sus productos
+ f) poder responder a correo de clientes.
+
+
+
+
+
+
+2: permitir registro de clientes/usuarios
+
+   a) ver productos para comprar
+   b) comprar productos (order)
+   c) poner productos en su carrito de compras y despacharlos cuando
+   d) ver su historial de compras, current and past purchases
+   e) be able to print the receipts for his purchases, past and current;
+   f) hacer comparacion de productos de la misma categoria.
+   g) poder ver informacion de los proveedores y poder contactar con proveedores via correo electronico
+    
+
+
+3: La aplicacion debe ser seguro.
